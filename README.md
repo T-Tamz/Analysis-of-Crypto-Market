@@ -4,7 +4,7 @@
 **Project description:**
 This project involves using Python to pull data on the cryptocurrency market from CoinMarketCap’s API and then automating that process. Next, I take the data gathered and perform simple Data Analytics and Data Science techniques on the data gathered to generate visualization. The purpose of this project was for me to learn basic workflow skills and develop a written report on my findings.
 
-**Note:** I have a Word document diving deeper into my analysis and showcasing step-by-step the processes of my code in Python and R. This ReadMe is a summarised version and provides recomendations from my findings from a investor and business point of view. If you have time, you can read and learn more!!
+**Note:** I have a Word document, "Analyzing the crypto market," that dives deeper into my analysis and showcases step-by-step the processes of my code in Python and R. This ReadMe is a summarised version. It provides recommendations using my findings from an investor and business point of view. If you have time, you can read and learn more!!
 
 ## **Data set**
 I pulled the data set used in this project through the CoinMarketCap API across 15 minutes and with 1-minute intervals between each pull. I utilized Python and its automation capabilities to do so

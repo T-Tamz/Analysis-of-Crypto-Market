@@ -44,6 +44,11 @@ Lower-Tier Cryptos Have Limited Market Influence:
 
 
 ## **Data Science Visualizations**
+### Original Distribution
+
+![image alt](https://github.com/T-Tamz/Analysis-of-Crypto-Market/blob/483b568e504a453edc6f1a01cd25be328e91c577/Images/Original%20Dist.png)
+
+### BootStrapped Distribution
 
 ![image alt](https://github.com/T-Tamz/Smart-Data-Workflow-API-Automation-in-Python-Analysis-in-R/blob/8816f53230f321f936952c30dba9d1e48d4db69b/Images/Boot%20Dist.png)
 
